@@ -6,8 +6,8 @@ In this example I am a security analyst working for a multimedia company that of
 <br />
 
 <h2>Tools used:</h2>
-- Knowledge of newtorks
-- NIST CSF
+-  Knowledge of newtorks 
+<p>-  NIST CSF</p>
 
 <h2>Documents:</h2>
 
